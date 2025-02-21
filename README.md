@@ -1,4 +1,4 @@
-# Data Scientist
+# Software engineer
 
 #### Technical Skills: Python, Java, C, SQL, Git, GitHub, Linux, Node.js, MongoDB, Deep Learning, Machine Learning, Computer Vision
 
