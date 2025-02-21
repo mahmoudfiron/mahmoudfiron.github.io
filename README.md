@@ -22,7 +22,7 @@ Integrated Zoom API for seamless real-time video communication between instructo
 Implemented role-based user management (admin, instructor, participant) with Firebase Authentication and Firestore for managing users and courses.
 Developed a dynamic course creation page for instructors, allowing them to add, edit, and manage their courses efficiently.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Bike Study](/bike_study.jpeg)
 
 ### MACHINE LEARNING project
 
@@ -30,5 +30,3 @@ Developed an AI-based image classification system capable of detecting and
 recognizing different object categories.
 Trained a convolutional neural network (CNN) using TensorFlow & Keras, achieving 95%
 accuracy on test datasets.
-
-![Bike Study](/assets/img/bike_study.jpeg)
